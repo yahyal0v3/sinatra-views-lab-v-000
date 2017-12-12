@@ -9,7 +9,7 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'date'
-    
+
 group :test do
   gem 'rspec'
   gem 'capybara'
